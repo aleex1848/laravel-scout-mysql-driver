@@ -1,5 +1,5 @@
 {
-    "name": "yab/laravel-scout-mysql-driver",
+    "name": "aleex1848/laravel-scout-mysql-driver",
     "description": "MySQL driver for Laravel Scout.",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "laravel/scout": "~6.0|~7.0|~8.0|~9.0"
+        "laravel/scout": "~6.0|~7.0|~8.0|~9.0|~10.0"
     },
     "require-dev": {
         "phpunit/phpunit": "8.5.x-dev",
